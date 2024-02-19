@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ![img](https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en)
 
-![img](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&layout=compact&hide=c,lua,ruby,c++)
-
 ![img](https://github-readme-streak-stats.herokuapp.com/?user=cezres&)
 
+![img](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&layout=compact&hide=c,lua,ruby,c++)
 
 
 
