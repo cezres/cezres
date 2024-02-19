@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en" alt="cezres" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en" alt="cezres" /></p>
 
 
 
@@ -23,15 +23,9 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&hide=c,lua,ruby,c++" alt="cezres" />
 </a>
 
-<p />
-
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cezres&" alt="cezres" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cezres&" alt="cezres" />
 </a>
-
-
-
-
 
 
 
