@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=citahub&repo=cyton-ios" width="33%" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cezres&repo=task_manager" width="33%" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=citahub&repo=cyton-ios" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cezres&repo=task_manager" height="160">
 </p>
 
 
