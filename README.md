@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en" alt="cezres" /></p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en" alt="cezres" />
+</a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
