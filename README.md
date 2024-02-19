@@ -18,26 +18,9 @@ Here are some ideas to get you started:
 
 ![img](https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en)
 
-![img](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&hide=c,lua,ruby,c++)
+![img](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&layout=compact&hide=c,lua,ruby,c++)
 
 ![img](https://github-readme-streak-stats.herokuapp.com/?user=cezres&)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en" alt="cezres" />
-</a>
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&hide=c,lua,ruby,c++" alt="cezres" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cezres&" alt="cezres" />
-</a>
-
 
 
 
