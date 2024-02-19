@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 
 
-[cezres](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&hide=c,lua,ruby,c++)
+![img](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&hide=c,lua,ruby,c++)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&hide=c,lua,ruby,c++" alt="cezres" />
