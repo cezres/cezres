@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img src="[图片1的URL](https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en)" alt="图片1的描述" height="100">
-  <img src="[图片2的URL](https://github-readme-streak-stats.herokuapp.com/?user=cezres&)" alt="图片2的描述" height="100">
-  <img src="[图片3的URL](https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&layout=compact&hide=c,lua,ruby,c++)" alt="图片3的描述" height="100">
+  <img src="https://github-readme-stats.vercel.app/api?username=cezres&show_icons=true&locale=en" alt="图片1的描述" height="100">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cezres&" alt="图片2的描述" height="100">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cezres&show_icons=true&locale=en&layout=compact&hide=c,lua,ruby,c++" alt="图片3的描述" height="100">
 </p>
 
 
